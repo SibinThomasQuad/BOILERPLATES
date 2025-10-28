@@ -1,5 +1,3 @@
-Perfect — here’s a **beautified, professional, GitHub-ready README.md** version of your Dynamic API Controller, with clear typography, emoji section icons, and consistent formatting for readability and style 👇
-
 ---
 
 # 🧩 Dynamic API Controller (Laravel)
@@ -303,8 +301,6 @@ curl -X POST http://yourdomain.com/api/dynamic_api/test_table/insert \
 ## 🏗️ Author
 
 **DynamicController** — Built with ❤️ using **Laravel** and **DB Facade**
-👨‍💻 Developed by **[Your Name]**
+👨‍💻 Developed by **SIBIN THOMAS**
 
 ---
-
-Would you like me to add a **downloadable “README.md” file** version of this (ready to upload to GitHub)?
