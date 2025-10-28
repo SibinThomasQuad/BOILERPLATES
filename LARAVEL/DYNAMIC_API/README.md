@@ -19,10 +19,11 @@ It allows developers to perform database actions quickly using simple **JSON req
 
 ```
 
-| Parameter | Description |
-|------------|-------------|
-| `{table}`  | The name of the database table (e.g., `test_table`) |
-| `{type}`   | One of: `insert`, `update`, `delete`, `get` |
+| Parameter | Description                                         |
+| --------- | --------------------------------------------------- |
+| `{table}` | The name of the database table (e.g., `test_table`) |
+| `{type}`  | One of: `insert`, `update`, `delete`, `get`         |
+
 
 ---
 
